@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <test name="{{motto}}" bind:change="changeName" bind:add="addAge"></test>
+  <text>我今年已经{{age}}岁了</text>
+  <test2 name="{{aribo}}"></test2>
+</view>

@@ -1,0 +1,4 @@
+<!--components/test.wxml-->
+<text>我是从父组件过来的---{{name}}</text>
+<button bindtap='click'>加年龄</button>
+<button bindtap='change'>改名字</button>

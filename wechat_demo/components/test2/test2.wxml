@@ -1,0 +1,2 @@
+<!--components/test2/test2.wxml-->
+<text>我是test2文件,我的名字是{{name}}</text>
